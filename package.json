@@ -1,0 +1,19 @@
+{
+  "name": "jsck-express",
+  "version": "0.0.1",
+  "description": "Express.js middleware implementation of JSCK JSON Schema Validation",
+  "main": "target/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:diminish7/jsck-express.git"
+  },
+  "author": "Jason Rush <diminish7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diminish7/jsck-express/issues"
+  },
+  "homepage": "https://github.com/diminish7/jsck-express"
+}
